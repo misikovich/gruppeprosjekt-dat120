@@ -25,7 +25,7 @@ def til_dato(tekst):
 
 
 
-csv_sti = "VScode dat120/øving_7/sinnes_2014_2025.csv"
+csv_sti = "sinnes_2014_2025.csv"
 
 with open(csv_sti, "r", encoding="utf-8") as fil:
 
